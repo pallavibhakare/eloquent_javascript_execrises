@@ -12,7 +12,7 @@ Write a loop that makes seven calls to console.log to output the following trian
 ######
 #######
 
-#Answer:
+#Answer
 var hash ="#";
 for(var i=0;i<7;i+=1){
   
